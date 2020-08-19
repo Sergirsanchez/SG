@@ -6,3 +6,4 @@ Para ejecutar los ejercicios (necesarios los directorios proporcionados por el p
 1.- Instalar Python
 2.- Abrir un terminal y situarnos en el directorio "ejerciciosThree"
 3.- Ejecutar "python -m SimpleHTTPServer" en Linux/Mac o "python -m http.server" en Windows.
+4.- Abrir el navegador y cargar la página "http://localhost:8000"
